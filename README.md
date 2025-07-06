@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
-<h3 align="center">I'm a passionate Frontend Developer and Software Engineering Student based in Rwanda. Currently studying at UNILAK and enrolled in the ALX Frontend Development Program. I’m working hard to become a professional developer</h3>
+<h3 align="center">An aspiring Frontend Developer and software engineer at unilak I’m passionate about creating clean, responsive, and user-friendly websites that provide real value to users✨
+</h3>
 
 <img align="center" src="https://giffiles.alphacoders.com/363/36302.gif" width="300" hight="600"/>
 
