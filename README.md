@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
 <h3 align="center">I'm a passionate Frontend Developer and Software Engineering Student based in Rwanda. Currently studying at UNILAK and enrolled in the ALX Frontend Development Program. I’m working hard to become a professional developer</h3>
 
-<img src="https://gifdb.com/images/high/typing-on-vintage-computer-ufekuszdwiicxfwz.gif"/>
+<img align="center" src="https://giffiles.alphacoders.com/363/36302.gif" width="300" hight="600"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmei1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmei1" /> </p>
 
