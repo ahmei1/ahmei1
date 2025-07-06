@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
 <h3 align="center">I'm a passionate **Frontend Developer** and **Software Engineering Student** based in Rwanda. Currently studying at **UNILAK** and enrolled in the **ALX Frontend Development Program**. I’m working hard to become a **professional developer**</h3>
 
+<img src="https://gifdb.com/images/high/typing-on-vintage-computer-ufekuszdwiicxfwz.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmei1&label=Profile%20views&color=0e75b6&style=flat" alt="ahmei1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmei1" alt="ahmei1" /></a> </p>
