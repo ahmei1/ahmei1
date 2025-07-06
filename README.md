@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
-<h3 align="center">I'm a passionate **Frontend Developer** and **Software Engineering Student** based in Rwanda. Currently studying at **UNILAK** and enrolled in the **ALX Frontend Development Program**. I’m working hard to become a **professional developer**</h3>
+<h3 align="center">I'm a passionate Frontend Developer and Software Engineering Student based in Rwanda. Currently studying at UNILAK and enrolled in the ALX Frontend Development Program. I’m working hard to become a professional developer</h3>
 
 <img src="https://gifdb.com/images/high/typing-on-vintage-computer-ufekuszdwiicxfwz.gif"/>
 
