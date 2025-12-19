@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
-<h3 align="center">An aspiring Frontend Developer and software engineer I’m passionate about creating clean, responsive, and user-friendly websites that provide real value to users✨
+<h3 align="center">An aspiring software engineer Frontend Developer and I’m passionate about creating clean, responsive, and user-friendly websites that provide real value to users✨
 </h3>
 
 <img align="center" src="https://giffiles.alphacoders.com/363/36302.gif" width="300" hight="600"/>
