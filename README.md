@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Abdelrahman</h1>
-<h3 align="center">An aspiring software engineer Frontend Developer and I’m passionate about creating clean, responsive, and user-friendly websites that provide real value to users✨
+<h3 align="center">An aspiring software engineer and Frontend based full-stack Developer and I am passionate about building and designing software systems and websites✨
 </h3>
 
 <img align="center" src="https://giffiles.alphacoders.com/363/36302.gif" width="300" hight="600"/>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahmei_1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmei_1?logo=twitter&style=for-the-badge" alt="ahmei_1" /></a> </p>
 
-- 🔭 I’m currently working on [java script projects](creating my portfolio website)
+- 🔭 i am a final year software engineering student
 
-- 🌱 I’m currently learning **Advanced JavaScript programming**
+- 🌱 I’m currently building real world prjects that can scale
 
 - 📫 How to reach me **se.ahmed1010@gmail.com**
 
